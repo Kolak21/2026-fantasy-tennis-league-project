@@ -1,0 +1,501 @@
+Rank,FirstName,LastName,Age,Nation,Points,Current,Previous,Team
+1,Jannik,Sinner,25,ITA,11500,,,Rileys Rascals
+2,Alexander,Zverev,29,GER,8090,US Open QF,,NO
+3,Carlos,Alcaraz,23,ESP,5560,US Open QF,,Ori Woohoo
+4,Felix,Auger-Aliassime,26,CAN,3890,,Lost in US Open R64 ,Bolabinga Tennis Club
+5,Ben,Shelton,23,USA,3780,US Open QF,,Bolabinga Tennis Club
+6,Daniil,Medvedev,30,RUS,3770,,Lost in US Open R16 ,Lanzhou Hand Pulled Noodles
+7,Flavio,Cobolli,24,ITA,3720,,Lost in US Open R32 ,Bagel Brothers
+8,Frances,Tiafoe,28,USA,3380,US Open SF,,Bolabinga Tennis Club
+9,Alex,de Minaur,27,AUS,3300,,Lost in US Open R64 ,Lanzhou Hand Pulled Noodles
+10,Taylor,Fritz,28,USA,3175,,Lost in US Open R32 ,Bagel Brothers
+11,Arthur,Fils,22,FRA,3150,,Lost in US Open R128 ,Lanzhou Hand Pulled Noodles
+12,Novak,Djokovic,39,SRB,2980,,Lost in US Open R128 ,NO
+13,Learner,Tien,20,USA,2755,,Lost in US Open R16 ,Ori Woohoo
+14,Rafael,Jodar,19,ESP,2659,,Lost in US Open R128 ,Lanzhou Hand Pulled Noodles
+15,Jakub,Mensik,21,CZE,2495,,Lost in US Open R32 ,Rileys Rascals
+16,Brandon,Nakashima,25,USA,2485,,Lost in US Open R64 ,NO
+17,Alexander,Bublik,29,KAZ,2435,,Lost in US Open R32 ,Lanzhou Hand Pulled Noodles
+18,Casper,Ruud,27,NOR,2335,,,Bagel Brothers
+19,Tommy,Paul,29,USA,2325,,Lost in US Open R16 ,Ori Woohoo
+20,Lorenzo,Musetti,24,ITA,2255,,Lost in US Open R64 ,Bagel Brothers
+21,Valentin,Vacherot,27,MON,2250,,Lost in US Open R32 ,Bolabinga Tennis Club
+22,Luciano,Darderi,24,ITA,2200,,Lost in US Open R16 ,Bolabinga Tennis Club
+23,Francisco,Cerundolo,28,ARG,2130,,Lost in US Open R16 ,Bagel Brothers
+24,Jiri,Lehecka,24,CZE,2120,,Lost in US Open R32 ,Bolabinga Tennis Club
+25,Andrey,Rublev,28,RUS,1930,,Lost in US Open R64 ,NO
+26,Alexander,Blockx,21,BEL,1788,US Open QF,,Rileys Rascals
+27,Alejandro,Tabilo,29,CHI,1778,,Lost in US Open R32 ,NO
+28,Joao,Fonseca,20,BRA,1750,,,Bagel Brothers
+29,Alejandro,Davidovich Fokina,27,ESP,1730,,,NO
+30,Tomas,Martin Etcheverry,27,ARG,1590,,Lost in US Open R16 ,NO
+31,Arthur,Rinderknech,31,FRA,1583,,Lost in US Open R32 ,Ori Woohoo
+32,Ugo,Humbert,28,FRA,1535,,,NO
+33,Alex,Michelsen,22,USA,1460,,Lost in US Open QF ,Lanzhou Hand Pulled Noodles
+34,Ignacio,Buse,22,PER,1460,,Lost in US Open R64 ,NO
+35,Arthur,Fery,24,GBR,1413,,Lost in US Open R128 ,NO
+36,Karen,Khachanov,30,RUS,1400,US Open QF,,NO
+37,Matteo,Arnaldi,25,ITA,1349,,Lost in US Open R128 ,NO
+38,Zizou,Bergs,27,BEL,1345,,Lost in US Open R32 ,NO
+39,Cameron,Norrie,31,GBR,1275,,Lost in US Open R128 ,NO
+40,Botic,van de Zandschulp,30,NED,1258,US Open QF,,NO
+41,Daniel,Merida,21,ESP,1216,,Lost in US Open R32 ,NO
+42,Luca,Van Assche,22,FRA,1180,,Lost in US Open R64 ,NO
+43,Matteo,Berrettini,30,ITA,1165,,Lost in US Open R64 ,NO
+44,Stefanos,Tsitsipas,28,GRE,1165,,Lost in US Open R16 ,Ori Woohoo
+45,Mariano,Navone,25,ARG,1155,,Lost in US Open R32 ,NO
+46,Hubert,Hurkacz,29,POL,1120,,Lost in US Open R64 ,NO
+47,Raphael,Collignon,24,BEL,1117,,Lost in US Open R128 ,NO
+48,Nuno,Borges,29,POR,1095,,Lost in US Open R128 ,NO
+49,Quentin,Halys,29,FRA,1070,,Lost in US Open R64 ,NO
+50,Denis,Shapovalov,27,CAN,1065,,Lost in US Open R32 ,Rileys Rascals
+51,Sebastian,Baez,25,ARG,1044,,Lost in US Open R128 ,NO
+52,Thiago,Agustin Tirante,25,ARG,1010,,Lost in US Open R128 ,NO
+53,Juan,Manuel Cerundolo,24,ARG,986,,Lost in US Open R128 ,NO
+54,Yannick,Hanfmann,34,GER,976,,Lost in US Open R128 ,NO
+55,Tallon,Griekspoor,30,NED,975,,Lost in US Open R128 ,NO
+56,Ethan,Quinn,22,USA,959,,,NO
+57,Roman,Andres Burruchaga,24,ARG,957,,Lost in US Open R128 ,NO
+58,Adolfo,Daniel Vallejo,22,PAR,939,,Lost in US Open R128 ,NO
+59,Corentin,Moutet,27,FRA,935,,Lost in US Open R128 ,NO
+60,Fabian,Marozsan,26,HUN,930,,Lost in US Open R128 ,NO
+61,Miomir,Kecmanovic,27,SRB,925,,Lost in US Open R128 ,NO
+62,Martin,Landaluce,20,ESP,924,,Lost in US Open R128 ,NO
+63,Arthur,Gea,21,FRA,918,,Lost in Qual. US Open R3 ,NO
+64,Sebastian,Korda,26,USA,915,,,NO
+65,Jan,Lennard Struff,36,GER,909,,Lost in US Open R64 ,NO
+66,Vit,Kopriva,29,CZE,883,,Lost in US Open R128 ,NO
+67,James,Duckworth,34,AUS,877,,Lost in US Open R64 ,NO
+68,Daniel,Altmaier,27,GER,874,,Lost in US Open R128 ,NO
+69,Jaime,Faria,23,POR,871,,Lost in US Open R64 ,NO
+70,Pablo,Carreno Busta,35,ESP,859,,Lost in US Open R128 ,NO
+71,Jaume,Munar,29,ESP,848,Seville R16,Lost in US Open R64 ,Ori Woohoo
+72,Kamil,Majchrzak,30,POL,777,,Lost in US Open R64 ,NO
+73,Jan,Choinski,30,GBR,776,,Lost in US Open R128 ,NO
+74,Tomas,Machac,25,CZE,770,,Lost in US Open R128 ,NO
+75,Camilo,Ugo Carabelli,27,ARG,770,,Lost in US Open R128 ,NO
+76,Hamad,Medjedovic,23,SRB,764,,Lost in US Open R128 ,NO
+77,Jenson,Brooksby,25,USA,763,,Lost in US Open R128 ,NO
+78,Adrian,Mannarino,38,FRA,745,,Lost in US Open R64 ,NO
+79,Marin,Cilic,37,CRO,741,,,NO
+80,Valentin,Royer,25,FRA,738,,Lost in US Open R128 ,NO
+81,Aleksandar,Kovacevic,28,USA,730,,Lost in US Open R128 ,NO
+82,Zachary,Svajda,23,USA,729,,Lost in US Open R64 ,NO
+83,Marcos,Giron,33,USA,725,,Lost in US Open R128 ,NO
+84,Rinky,Hijikata,25,AUS,724,,Lost in US Open R128 ,NO
+85,Facundo,Diaz Acosta,25,ARG,709,Seville R16,Lost in US Open R128 ,NO
+86,Lorenzo,Sonego,31,ITA,698,,Lost in US Open R128 ,NO
+87,Terence,Atmane,24,FRA,697,,Lost in US Open R128 ,NO
+88,Michael,Zheng,22,USA,682,,Lost in US Open R32 ,NO
+89,Aleksandar,Vukic,30,AUS,659,,Lost in US Open R128 ,NO
+90,Mattia,Bellucci,25,ITA,659,,Lost in US Open R64 ,NO
+91,Benjamin,Bonzi,30,FRA,656,,Lost in US Open R32 ,NO
+92,Aleksandr,Shevchenko,25,KAZ,655,,Lost in US Open R128 ,NO
+93,Alex,Molcan,28,SVK,645,,Lost in US Open R128 ,NO
+94,Toby,Samuel,24,GBR,640,,Qual. US Open W,NO
+95,Sho,Shimabukuro,29,JPN,640,,Lost in US Open R128 ,NO
+96,Jacob,Fearnley,25,GBR,639,,Lost in Qual. US Open R3 ,NO
+97,Jesper,de Jong,26,NED,638,,Lost in US Open R64 ,NO
+98,Marco,Trungelliti,36,ARG,637,,Lost in US Open R64 ,NO
+99,Yibing,Wu,26,CHN,635,,Lost in US Open R32 ,NO
+100,Hugo,Gaston,25,FRA,634,,Qual. US Open W,NO
+101,Adam,Walton,27,AUS,630,,Lost in US Open R128 ,NO
+102,Dino,Prizmic,21,CRO,628,,Lost in US Open R64 ,NO
+103,Martin,Damm,22,USA,624,,Lost in US Open R128 ,NO
+104,Titouan,Droguet,25,FRA,616,Cassis R16,Lost in Qual. US Open R1,NO
+105,Damir,Dzumhur,34,BIH,612,,Lost in US Open R128 ,NO
+106,Giovanni,Mpetshi Perricard,23,FRA,600,,Lost in US Open R128 ,NO
+107,Roman,Safiullin,29,RUS,594,,Lost in US Open R128 ,NO
+108,Otto,Virtanen,25,FIN,586,,Lost in Qual. US Open R3,NO
+109,Dane,Sweeny,25,AUS,581,,Lost in US Open R32 ,NO
+110,Kyrian,Jacquet,25,FRA,581,,Lost in Qual. US Open R2,NO
+111,Christopher,O'Connell,32,AUS,579,,Lost in Qual. US Open R3,NO
+112,Coleman,Wong,22,HKG,578,,Qual. US Open W,NO
+113,Emilio,Nava,24,USA,568,,,NO
+114,Yunchaokete,Bu,24,CHN,552,,Lost in Qual. US Open R3,NO
+115,Patrick,Kypson,26,USA,540,,,NO
+116,Zsombor,Piros,26,HUN,530,,Qual. US Open W,NO
+117,Dalibor,Svrcina,23,CZE,525,,Qual. US Open W,NO
+118,Vilius,Gaubas,21,LTU,511,,Lost in Qual. US Open R3,NO
+119,Marton,Fucsovics,34,HUN,510,,Lost in US Open R128 ,NO
+120,Nicolas,Mejia,26,COL,509,,Lost in Qual. US Open R1,NO
+121,Eliot,Spizzirri,24,USA,507,,,NO
+122,Henrique,Rocha,22,POR,505,Seville R16,Lost in Qual. US Open R2,NO
+123,Gabriel,Diallo,24,CAN,500,,,NO
+124,Gustavo,Heide,24,BRA,496,Tulln R16,Lost in Qual. US Open R1,NO
+125,Sebastian,Ofner,30,AUT,493,Seville R16,Lost in Qual. US Open R1 ,NO
+126,Shintaro,Mochizuki,23,JPN,478,,Lost in Qual. US Open R3,NO
+127,Francisco,Comesana,25,ARG,476,,Lost in US Open R128 ,NO
+128,Grigor,Dimitrov,35,BUL,472,,Qual. US Open W,NO
+129,Hugo,Dellien,33,BOL,460,Genoa 1 R16,Lost in Qual. US Open R2,NO
+130,Alexei,Popyrin,27,AUS,458,,Lost in US Open R64 ,NO
+131,Nikoloz,Basilashvili,34,GEO,448,,Lost in Qual. US Open R1,NO
+132,Cristian,Garin,30,CHI,446,,Lost in Qual. US Open R3 ,NO
+133,Stan,Wawrinka,41,SUI,436,,Lost in US Open R128 ,NO
+134,Rei,Sakamoto,20,JPN,429,,Qual. US Open W,NO
+135,Alexandre,Muller,29,FRA,428,,Lost in Qual. US Open R2 ,NO
+136,Lloyd,Harris,29,RSA,428,,Qual. US Open W,NO
+137,Tomas,Barrios Vera,28,CHI,428,,Qual. US Open W,NO
+138,Stefanos,Sakellaridis,21,GRE,421,Genoa 1 R16,Lost in Qual. US Open R1,NO
+139,Jurij,Rodionov,27,AUT,416,Cassis R16,Qual. US Open W,NO
+140,Pablo,Llamas Ruiz,23,ESP,409,Seville R16,Lost in Qual. US Open R3 ,NO
+141,Holger,Rune,23,DEN,400,,,NO
+142,Mackenzie,McDonald,31,USA,396,,Lost in Qual. US Open R3 ,NO
+143,Pedro,Martinez,29,ESP,391,Genoa 1 R16,Lost in Qual. US Open R1,NO
+144,Andrea,Pellegrino,29,ITA,390,Genoa 1 R16,Lost in Qual. US Open R1,NO
+145,Mark,Lajal,23,EST,389,Cassis R16,Lost in Qual. US Open R1,NO
+146,Arthur,Cazaux,24,FRA,380,,,NO
+147,Chris,Rodesch,25,LUX,377,,,NO
+148,Nishesh,Basavareddy,21,USA,374,,Qual. US Open W,NO
+149,Nicolai,Budkov Kjaer,20,NOR,371,Cassis R16,Lost in Qual. US Open R2,NO
+150,Zhizhen,Zhang,29,CHN,365,,,NO
+151,Juan,Carlos Prado Angelo,21,BOL,364,,Lost in Qual. US Open R1,NO
+152,Reilly,Opelka,29,USA,361,,,Rileys Rascals
+153,Jack,Draper,24,GBR,360,,,Rileys Rascals
+154,Borna,Gojo,28,CRO,357,,Lost in Qual. US Open R2,NO
+155,Soonwoo,Kwon,28,KOR,355,,Lost in Qual. US Open R1,NO
+156,Stefano,Travaglia,34,ITA,355,Genoa 1 R16,Lost in Qual. US Open R1,NO
+157,Clement,Tabur,26,FRA,353,,Lost in Qual. US Open R1,NO
+158,Taro,Daniel,33,JPN,350,Shanghai R16,Lost in Qual. US Open R1 ,NO
+159,Alex,Bolt,33,AUS,348,,Lost in Qual. US Open R1,NO
+160,Marco,Cecchinato,33,ITA,344,,Lost in Qual. US Open R2,NO
+161,Gauthier,Onclin,25,BEL,344,,Lost in Qual. US Open R1,NO
+162,Tristan,Schoolkate,25,AUS,343,,Qual. US Open W,NO
+163,Tom,Gentzsch,23,GER,341,,Lost in Qual. US Open R2,NO
+164,Andrea,Guerrieri,27,ITA,338,,Qual. US Open W,NO
+165,Federico,Cina,19,ITA,337,,Qual. US Open W,NO
+166,Francesco,Maestrelli,23,ITA,329,Istanbul 3 R16,Lost in Qual. US Open R1,NO
+167,Daniil,Glinka,26,EST,327,Cassis R16,Lost in Qual. US Open R2,NO
+168,Dusan,Lajovic,36,SRB,324,Seville R16,Lost in Qual. US Open R3 ,NO
+169,Gonzalo,Bueno,22,PER,324,Seville R16,Lost in Qual. US Open R1,NO
+170,Max,Alcala Gurri,23,ESP,323,Seville R16,Lost in Qual. US Open R1,NO
+171,Elmer,Moller,23,DEN,321,,Lost in Qual. US Open R1,NO
+172,Harry,Wendelken,24,GBR,321,,Qual. US Open W,NO
+173,Zdenek,Kolar,29,CZE,317,Tulln R16,Lost in Qual. US Open R1,NO
+174,Michael,Mmoh,28,USA,315,,Lost in Qual. US Open R1,NO
+175,Joel,Schwarzler,20,AUT,313,,Lost in Qual. US Open R2,NO
+176,Alexis,Galarneau,27,CAN,310,Shanghai R16,Lost in Qual. US Open R2,NO
+177,Thiago,Seyboth Wild,26,BRA,309,Genoa 1 R16,Lost in Qual. US Open R2 ,NO
+178,Andre,Ilagan,25,USA,309,,Lost in Qual. US Open R2 ,NO
+179,Lukas,Neumayer,24,AUT,305,Tulln R16,Lost in Qual. US Open R2 ,NO
+180,Jan,Kumstat,19,CZE,302,,Lost in Como R32,NO
+181,Matej,Dodig,21,CRO,302,Genoa 1 R16,Como W,NO
+182,Bernard,Tomic,33,AUS,296,Shanghai R16,Lost in Qual. US Open R1 ,NO
+183,Federico,Agustin Gomez,29,ARG,292,,Lost in Qual. US Open R1,NO
+184,Remy,Bertola,28,SUI,292,,Lost in Qual. US Open R2,NO
+185,Diego,Dedura,18,GER,291,Tulln R16,Lost in Qual. US Open R1,NO
+186,Vitaliy,Sachko,29,UKR,290,Tulln R16,Lost in Qual. US Open R2,NO
+187,Jack,Pinnington Jones,23,GBR,289,,Lost in Qual. US Open R2,NO
+188,Clement,Chidekh,25,FRA,287,Plaisir R32,Lost in Qual. US Open R2,NO
+189,Keegan,Smith,28,USA,287,,Lost in Qual. US Open R1,NO
+190,Felix,Balshaw,20,FRA,286,,Manacor W ,NO
+191,Lautaro,Midon,22,ARG,283,,Lost in Qual. US Open R1,NO
+192,Luka,Pavlovic,26,FRA,281,,Lost in Qual. US Open R2 ,NO
+193,Elias,Ymer,30,SWE,280,,Lost in Qual. US Open R2 ,NO
+194,Edas,Butvilas,22,LTU,280,Istanbul 3 R16,Lost in Manacor QF,NO
+195,Juan,Pablo Varillas,30,PER,280,Genoa 1 R16,Lost in Qual. US Open R1,NO
+196,Timofey,Skatov,25,KAZ,280,,Lost in Qual. US Open R2 ,NO
+197,Moise,Kouame,17,FRA,279,,Lost in Qual. US Open R1 ,NO
+198,Laslo,Djere,31,SRB,279,Genoa 1 R16,Lost in Qual. US Open R1 ,NO
+199,Liam,Broady,32,GBR,273,,Lost in Qual. US Open R1,NO
+200,Francesco,Passaro,25,ITA,270,Genoa 1 R16,Qual. US Open W,NO
+201,Ilia,Simakin,22,RUS,270,Phan Thiet 3 R16,Zhangjiagang W,NO
+202,Colton,Smith,23,USA,269,,Lost in Qual. US Open R3 ,NO
+203,Andy,Andrade,27,ECU,269,,,NO
+204,Lorenzo,Giustino,34,ITA,269,,Lost in Qual. US Open R1 ,NO
+205,Liam,Draxl,24,CAN,267,,Lost in Qual. US Open R3,NO
+206,Braden,Shick,22,USA,267,,Lost in Qual. US Open R2,NO
+207,Yoshihito,Nishioka,30,JPN,266,,,NO
+208,Chun,Hsin Tseng,25,TWN,265,,Lost in Zhangjiagang SF,NO
+209,Maxim,Mrva,19,CZE,265,,Lost in Plovdiv 3 R16,NO
+210,Pol,Martin Tiffon,27,ESP,262,,Lost in Qual. US Open R1,NO
+211,David,Jorda Sanchis,32,ESP,262,,Lost in Qual. US Open R2,NO
+212,Roberto,Carballes Baena,33,ESP,261,,Lost in Qual. US Open R1 ,NO
+213,Felix,Gill,24,GBR,261,,Lost in Qual. US Open R1,NO
+214,Tristan,Boyer,25,USA,260,,Lost in Qual. US Open R1,NO
+215,Gianluca,Cadenasso,21,ITA,258,,,NO
+216,Facundo,Mena,33,ARG,256,,Porto 1 W,NO
+217,Moez,Echargui,33,TUN,253,Cassis R16,Lost in Qual. US Open R1,NO
+218,Inaki,Montes De La Torre,23,ESP,250,,Lost in Manacor F ,NO
+219,Kimmer,Coppejans,32,BEL,250,,Lost in Qual. US Open R1,NO
+220,Billy,Harris,31,GBR,249,Cassis R16,Lost in Qual. US Open R2,NO
+221,Henry,Searle,20,GBR,246,,Lost in Qual. US Open R1,NO
+222,Juncheng,Shang,21,CHN,245,,Lost in US Open R128 ,NO
+223,Guido,Ivan Justo,28,ARG,244,,Lost in Qual. US Open R1 ,NO
+224,Rio,Noguchi,27,JPN,242,Shanghai R16,Lost in Qual. US Open R1,NO
+225,Alex,Barrena,23,ARG,241,Tulln R16,Lost in Porto 1 R32,NO
+226,Raul,Brancaccio,29,ITA,239,Seville R16,Lost in Qual. US Open R1,NO
+227,Jay,Clarke,28,GBR,237,,Lost in Qual. US Open R1,NO
+228,Nikolas,Sanchez Izquierdo,27,ESP,236,,Lost in Qual. US Open R1,NO
+229,Max,Houkes,26,NED,234,Rabat 2 R32,Casablanca W,NO
+230,Roberto,Bautista Agut,38,ESP,233,,,NO
+231,Pavel,Kotov,27,RUS,233,Shanghai R16,,NO
+232,Andrej,Nedic,21,BIH,233,,Qual. Como W,NO
+233,Henri,Squire,25,GER,231,,Lost in Qual. US Open R1,NO
+234,Luka,Mikrut,22,CRO,229,,Lost in Qual. US Open R2 ,NO
+235,Alejandro,Moro Canas,25,ESP,229,Seville R16,Lost in Qual. US Open R1,NO
+236,August,Holmgren,28,DEN,228,,Lost in Qual. US Open R1,NO
+237,Leandro,Riedi,24,SUI,227,,,NO
+238,Luca,Nardi,23,ITA,226,,Lost in Qual. US Open R1,NO
+239,Darwin,Blanch,18,USA,226,,Lost in US Open R128 ,NO
+240,J.J.,Wolf,27,USA,225,,Lost in US Open R128 ,NO
+241,Sumit,Nagal,29,IND,225,,Lost in Qual. US Open R1 ,NO
+242,Matias,Soto,27,CHI,225,Tulln R16,Lost in Como R32,NO
+243,Hayato,Matsuoka,21,JPN,225,,Lost in Zhangjiagang R32,NO
+244,Maks,Kasnikowski,23,POL,224,Istanbul 3 R16,Lost in Qual. US Open R1,NO
+245,Matheus,Pucinelli De Almeida,25,BRA,223,,Qual. Manacor W,NO
+246,Yi,Zhou,21,CHN,221,Shanghai R16,Lost in Zhangjiagang R32,NO
+247,Frederico,Ferreira Silva,31,POR,221,,Lost in Qual. US Open R2,NO
+248,Gael,Monfils,40,FRA,220,,Lost in US Open R64 ,NO
+249,James,McCabe,23,AUS,219,,Lost in Qual. US Open R1,NO
+250,Daniel,Rincon,23,ESP,219,Cassis R16,Lost in Qual. US Open R3,NO
+251,Charles,Broom,28,GBR,218,,Lost in Qual. Manacor R2,NO
+252,Martin,Krumich,23,CZE,217,Tulln R16,Lost in Como R32,NO
+253,Abdullah,Shelbayh,22,JOR,214,,,NO
+254,Marvin,Moller,27,GER,214,Tulln R16,,NO
+255,Michele,Ribecai,23,ITA,214,,Lost in Manacor R16,NO
+256,Franco,Roncadelli,26,URU,212,,Lost in Qual. US Open R1,NO
+257,Dominic,Stricker,24,SUI,211,,,NO
+258,Buvaysar,Gadamauri,26,BEL,210,,,NO
+259,Philip,Henning,25,RSA,210,,,NO
+260,Hynek,Barton,22,CZE,210,,Lost in Tulln R32,NO
+261,Joao,Lucas Reis Da Silva,26,BRA,209,Tulln R16,Lost in Como R32,NO
+262,Marc-Andrea,Husler,30,SUI,208,,,NO
+263,Hugo,Grenier,30,FRA,207,,Lost in Manacor R32,NO
+264,Matthew,Dellavedova,26,AUS,207,,Lost in Taipei 2 F,NO
+265,Rodrigo,Pacheco Mendez,21,MEX,204,,Lost in Phan Thiet 3 R32,NO
+266,Kilian,Feldbausch,21,SUI,203,,Lost in Qual. US Open R1 ,NO
+267,Cezar,Cretu,25,ROU,203,,Lost in Istanbul 3 R32,NO
+268,Nick,Hardt,25,DOM,200,,Lost in Porto 1 R32,NO
+269,Juan,Manuel La Serna,22,ARG,200,Tulln R16,Lost in Plovdiv 3 QF,NO
+270,Juan,Bautista Torres,24,ARG,200,,,NO
+271,Dan,Added,27,FRA,199,,Lost in Qual. US Open R1,NO
+272,Filip,Jianu,24,ROU,199,,Lost in Bucharest 3 R16,NO
+273,Pierre,Hugues Herbert,35,FRA,198,,,NO
+274,Daniel,Michalski,26,POL,197,,Poznan W,NO
+275,Pedro,Boscardin Dias,23,BRA,197,,,NO
+276,Matteo,Martineau,27,FRA,196,,Lost in Cassis R32,NO
+277,Thiago,Monteiro,32,BRA,195,Tulln R16,Lost in Porto 1 QF,NO
+278,Genaro,Alberto Olivieri,28,ARG,195,Seville R16,Lost in Qual. US Open R2,NO
+279,Stefano,Napolitano,31,ITA,194,,Lost in Qual. US Open R1 ,NO
+280,Jerome,Kym,23,SUI,193,,Lost in Qual. US Open R2,NO
+281,Alastair,Gray,28,GBR,192,,Lost in Qual. Manacor R1,NO
+282,Giles,Hussey,29,GBR,192,,,NO
+283,Sergey,Fomin,25,UZB,192,,Lost in Maanshan 10 R32,NO
+284,Carl,Emil Overbeck,25,DEN,191,,Lost in Qual. Manacor R2,NO
+285,Mili,Poljicak,22,CRO,189,,Lost in Como R32,NO
+286,Stefan,Kozlov,28,USA,189,,,NO
+287,Max,Schonhaus,19,GER,189,,Lost in Como QF,NO
+288,Alvaro,Guillen Meza,23,ECU,189,,Lost in Como R32,NO
+289,Franco,Agamenone,33,ITA,188,,Lost in Plovdiv 3 R32,NO
+290,Raphael,Perot,25,FRA,188,Cassis R16,Bagneres De Bigorre W,NO
+291,Mert,Alkaya,26,TUR,188,Istanbul 3 R16,,NO
+292,Yu-hsiou,Hsu,27,TWN,187,,Lost in Zhangjiagang R16,NO
+293,Johannus,Monday,24,GBR,186,,,NO
+294,Petr,Bar Biryukov,24,RUS,186,,Lost in Maanshan 10 R32,NO
+295,Max,Basing,23,GBR,184,Istanbul 3 R16,Lost in Manacor R32,NO
+296,Oliver,Crawford,27,GBR,184,,,NO
+297,Petr,Nesterov,23,BUL,184,,Lost in Plovdiv 3 R32,NO
+298,Oliver,Tarvet,22,GBR,181,,,NO
+299,Stefan,Dostanic,24,USA,181,,,NO
+300,Igor,Marcondes,29,BRA,181,,,NO
+301,Sandro,Kopp,26,AUT,181,,Lost in Como R32,NO
+302,Guy,den Ouden,24,NED,180,,Lost in Qual. US Open R1,NO
+303,Jay,Friend,22,JPN,180,Istanbul 3 R16,Lost in Manacor R16,NO
+304,Sean,Cuenin,22,FRA,180,,Lost in Porto 1 R32,NO
+305,Florent,Bax,27,FRA,180,,Lost in Nonthaburi SF,NO
+306,Filippo,Romano,21,ITA,178,,Lost in Genoa 1 R32,NO
+307,Kaichi,Uchida,32,JPN,178,,Lost in Maanshan 10 R32,NO
+308,Georgii,Kravchenko,26,UKR,178,,Plovdiv 3 W,NO
+309,Max,Hans Rehberg,22,GER,176,,Lost in Tulln R32,NO
+310,Harold,Mayot,24,FRA,175,Istanbul 3 R16,,NO
+311,Andres,Martin,25,USA,174,,,NO
+312,Daniel,Milavsky,24,USA,173,,Lost in Qual. US Open R1 ,NO
+313,Radu,Mihai Papoe,24,ROU,171,,,NO
+314,Gilles,Arnaud Bailly,20,BEL,170,,Lost in Qual. US Open R1,NO
+315,Oriol,Roca Batalla,33,ESP,170,,Lost in Porto 1 QF,NO
+316,Akira,Santillan,29,JPN,170,,Lost in Taipei 2 R32,NO
+317,Luciano,Emanuel Ambrogi,22,ARG,169,,,NO
+318,Anton,Matusevich,25,GBR,168,,,NO
+319,Calvin,Hemery,31,FRA,168,Seville R16,Lost in Plovdiv 3 R16,NO
+320,Tyler,Zink,25,USA,168,,,NO
+321,Fajing,Sun,29,CHN,165,,Lost in Zhangjiagang QF,NO
+322,Federico,Bondioli,21,ITA,165,,Lost in Como R32,NO
+323,Miguel,Damas,26,ESP,165,,Lost in Porto 1 QF,NO
+324,Florian,Broska,28,GER,164,,,NO
+325,Gonzalo,Villanueva,31,ARG,164,,Lost in Mar Del Plata SF,NO
+326,Murphy,Cassone,24,USA,162,,,NO
+327,Enrico,Dalla Valle,28,ITA,162,Genoa 1 R16,Lost in Porto 1 R16,NO
+328,Sascha,Gueymard Wayenburg,23,FRA,161,Cassis R16,Qual. Manacor W,NO
+329,Dali,Blanch,23,USA,160,,Lost in Seville R32 ,NO
+330,Nicolas,Kicker,34,ARG,160,,,NO
+331,Carlos,Sanchez Jover,26,ESP,160,,Lost in Oviedo R32,NO
+332,Lucas,Poullain,30,FRA,159,,Lost in Cassis R32,NO
+333,Tiago,Pereira,22,POR,159,Seville R16,Lost in Poznan R32,NO
+334,Mees,Rottgering,19,NED,157,,,NO
+335,Thomas,Faurel,20,FRA,156,,Lost in Plovdiv 3 QF,NO
+336,Yanki,Erel,25,TUR,156,Istanbul 3 R16,Lost in Taipei 2 QF,NO
+337,Cruz,Hewitt,17,AUS,156,Phan Thiet 3 R16,,NO
+338,Ugo,Blanchet,27,FRA,155,Cassis R16,Lost in Qual. US Open R1,NO
+339,Edward,Winter,21,AUS,155,,,NO
+340,Mikhail,Kukushkin,38,KAZ,154,,,NO
+341,Ivan,Marrero Curbelo,27,ESP,154,,Lost in Qual. Manacor R1,NO
+342,Michael,Geerts,31,BEL,153,,,NO
+343,Marko,Topo,22,GER,152,Tulln R16,Lost in Plovdiv 3 R32,NO
+344,Mathys,Erhard,24,FRA,152,Cassis R16,Qual. Manacor W,NO
+345,Carlos,Maria Zarate,21,ARG,150,,Lost in Mar Del Plata F,NO
+346,Duje,Ajdukovic,25,CRO,149,Genoa 1 R16,Lost in Como QF,NO
+347,Ilya,Ivashka,32,BLR,148,Shanghai R16,Lost in Zhangjiagang QF,NO
+348,Tung,Lin Wu,28,TWN,148,Shanghai R16,Lost in Zhangjiagang R32,NO
+349,Jake,Delaney,29,AUS,148,Shanghai R16,Lost in Taipei 2 R32,NO
+350,Justin,Engel,18,GER,147,,,NO
+351,Norbert,Gombos,36,SVK,147,,Qual. Como W,NO
+352,Juan,Estevez,20,ARG,147,,Lost in Plovdiv 3 R32,NO
+353,Ognjen,Milic,19,SRB,146,,Lost in Plovdiv 3 R16,NO
+354,Arthur,Nagel,23,FRA,146,Rabat 2 R32,Lost in Casablanca QF,NO
+355,Sebastian,Sorger,20,AUT,145,,Lost in Maribor SF,NO
+356,Gabriele,Piraino,22,ITA,145,Genoa 1 R16,Lost in Plovdiv 3 R32,NO
+357,Philip,Sekulic,23,AUS,145,Phan Thiet 3 R16,Lost in Urayasu R16,NO
+358,Tiago,Torres,24,POR,144,,Lost in Porto 1 R32,NO
+359,Eduardo,Ribeiro,28,BRA,144,,Qual. Porto 1 W,NO
+360,Aidan,Mayo,23,USA,143,,,NO
+361,Petr,Brunclik,20,CZE,142,,Lost in Plovdiv 3 R32,NO
+362,Dhakshineswar,Suresh,26,IND,141,,,NO
+363,George,Loffhagen,25,GBR,140,,,NO
+364,Manas,Dhamne,18,IND,140,,Qual. Cassis W,NO
+365,Marc,Polmans,29,AUS,139,,,NO
+366,Hamish,Stewart,27,GBR,139,,,NO
+367,Alejo,Sanchez Quilez,21,ESP,139,,Lost in Manacor QF ,NO
+368,Francesco,Forti,27,ITA,139,,Qual. Como W,NO
+369,Valerio,Aboian,24,ARG,139,Genoa 1 R16,Lost in Maribor QF,NO
+370,Antoine,Ghibaudo,21,FRA,138,,,NO
+371,Murkel,Dellien,28,BOL,138,,,NO
+372,Eliakim,Coulibaly,24,CIV,137,,,NO
+373,Juan,Pablo Ficovich,29,ARG,137,,Lost in Plovdiv 3 R32,NO
+374,Dimitar,Kuzmanov,33,BUL,137,Istanbul 3 R16,Lost in Maribor QF,NO
+375,Andrej,Martin,36,SVK,136,,Vienna W,NO
+376,Tommaso,Compagnucci,26,ITA,136,,,NO
+377,Lucio,Ratti,22,ARG,135,,Lost in Oldenzaal R16,NO
+378,Laurent,Lokoli,31,FRA,134,,Lost in Qual. Como R2,NO
+379,Hernan,Casanova,32,ARG,134,,,NO
+380,Max,Wiskandt,24,GER,132,,,NO
+381,Massimo,Giunta,22,ITA,132,Genoa 1 R16,Lost in Plovdiv 3 R16,NO
+382,Kasidit,Samrej,25,THA,132,Phan Thiet 3 R16,Lost in Taipei 2 SF,NO
+383,Robin,Bertrand,23,FRA,132,Cassis R16,Lost in Monastir 34 QF,NO
+384,Alex,Martinez,25,ESP,131,,,NO
+385,Joaquin,Aguilar Cardozo,21,URU,131,,Mar Del Plata W,NO
+386,Jacopo,Vasami,18,ITA,129,,,NO
+387,Jack,Kennedy,18,USA,129,,Lost in US Open R128 ,NO
+388,Daniel,Elahi Galan,30,COL,129,,Lost in Tulln R32,NO
+389,Andrey,Chepelev,28,RUS,129,,Lost in Lausanne F,NO
+390,David,Goffin,35,BEL,128,,,NO
+391,Andrea,Collarini,34,ARG,128,,,NO
+392,Daniel,Masur,31,GER,127,Cassis R16,Lost in Qual. Manacor R1,NO
+393,Johan,Nikles,29,SUI,127,,Lost in Lausanne R32,NO
+394,Marek,Gengel,30,CZE,127,,Lost in Qual. Manacor R2,NO
+395,Lui,Maxted,22,GBR,126,,Lost in Qual. Manacor R1,NO
+396,Mateus,Alves,25,BRA,126,Leme R32,Lost in Porto Velho 2 F,NO
+397,Justin,Boulais,24,CAN,125,,Lost in Qual. Cassis R2,NO
+398,Blaise,Bicknell,24,JAM,124,,,NO
+399,Samuele,Pieri,24,ITA,124,,Lost in Maribor F,NO
+400,Yosuke,Watanuki,28,JPN,123,,Lost in Zhangjiagang R16,NO
+401,Olle,Wallin,24,SWE,123,,Qual. Como W,NO
+402,Vadym,Ursu,29,UKR,123,Istanbul 3 R16,Lost in Hurghada 7 R32,NO
+403,Mats,Rosenkranz,28,GER,122,,,NO
+404,Mika,Brunold,21,SUI,121,Tulln R16,Qual. Tulln W,NO
+405,Eric,Vanshelboim,25,UKR,121,,Lost in Oldenzaal F,NO
+406,Masamichi,Imamura,27,JPN,121,,Lost in Zhangjiagang R32,NO
+407,Omar,Jasika,29,AUS,121,Shanghai R16,Lost in Taipei 2 R16,NO
+408,Mitchell,Krueger,32,USA,120,,,NO
+409,Dylan,Dietrich,21,SUI,119,,,NO
+410,Thanasi,Kokkinakis,30,AUS,118,,,NO
+411,Niels,Visker,24,NED,118,,Qual. Porto 1 W,NO
+412,Yuta,Shimizu,27,JPN,117,Phan Thiet 3 R16,,NO
+413,Semen,Pankin,27,RUS,117,,Lost in Zhangjiagang R32,NO
+414,Denis,Yevseyev,33,KAZ,116,Shanghai R16,Lost in Zhangjiagang R32,NO
+415,Carlos,Taberner,29,ESP,115,,Lost in US Open R128 ,NO
+416,Aziz,Dougaz,29,TUN,115,,Lost in Qual. US Open R3,NO
+417,Ozan,Baris,22,USA,114,,,NO
+418,Karim,Bennani,19,MAR,114,Rabat 2 R32,Lost in Casablanca F,NO
+419,Benjamin,Hassan,31,LBN,114,,Lost in Qual. Como R2,NO
+420,Louis,Wessels,28,GER,114,,Oldenzaal W,NO
+421,Andrew,Fenty,26,USA,114,,,NO
+422,Jordan,Thompson,32,AUS,113,,,NO
+423,Jonas,Forejtek,25,CZE,113,,Lost in Qual. Seville R2,NO
+424,Giulio,Zeppieri,24,ITA,112,,,NO
+425,Arthur,Weber,34,FRA,112,Phan Thiet 3 R16,Lost in Taipei 2 R16,NO
+426,Robert,Strombachs,26,LAT,112,,Lost in Plovdiv 3 R32,NO
+427,Kei,Nishikori,36,JPN,111,,Lost in Qual. US Open R3 ,NO
+428,Khumoyun,Sultanov,27,UZB,111,Phan Thiet 3 R32,Qual. Zhangjiagang W,NO
+429,Pavel,Lagutin,21,RUS,111,Seville R16,Qual. Seville W,NO
+430,Maxime,Chazal,33,FRA,111,,Le Cap d'Agde W,NO
+431,Sergi,Perez Contri,28,ESP,111,,Lost in Oviedo F,NO
+432,Geoffrey,Blancaneaux,28,FRA,111,,Lost in Rabat 2 R32,NO
+433,Constantin,Bittoun Kouzmine,27,FRA,111,,Lost in Phan Thiet 3 R32,NO
+434,Garrett,Johns,25,USA,110,,,NO
+435,Moerani,Bouzige,27,AUS,110,,Lost in Taipei 2 R32,NO
+436,James,Trotter,27,JPN,109,,Lost in Zhangjiagang QF,NO
+437,Luca,Castelnuovo,29,SUI,109,Shanghai R16,Lost in Taipei 2 SF,NO
+438,Ioannis,Xilas,25,GRE,109,Rabat 2 R32,,NO
+439,Yannik,Kelm,21,GER,108,,,NO
+440,Nerman,Fatic,31,BIH,107,,,NO
+441,Enzo,Aguiard,24,AUS,107,Phan Thiet 3 R32,Lost in Maanshan 10 SF,NO
+442,Oleksii,Krutykh,26,UKR,107,,Lost in Qual. Genoa 1 R2,NO
+443,Timo,Legout,24,FRA,106,,,NO
+444,Alafia,Ayeni,27,USA,106,Istanbul 3 R16,Lost in Qual. Porto 1 R2,NO
+445,Eero,Vasa,29,FIN,105,,Lost in Oldenzaal R16,NO
+446,Jie,Cui,28,CHN,105,Shanghai R16,Lost in Zhangjiagang R32,NO
+447,Dusan,Obradovic,25,SRB,105,,Lost in Plovdiv 3 SF,NO
+448,Mika,Petkovic,19,GER,105,,Lost in Porto 1 R16,NO
+449,Emile,Hudd,26,GBR,105,Pozzuoli R32,,NO
+450,Spencer,Johnson,23,USA,104,,Lost in Qual. US Open R1 ,NO
+451,Kenta,Miyoshi,22,JPN,104,Phan Thiet 3 R16,,NO
+452,Ivan,Gakhov,29,RUS,104,,Lost in Oviedo SF,NO
+453,Ryan,Peniston,30,GBR,103,,Lost in Qual. Manacor R1,NO
+454,Juan,Cruz Martin Manzano,21,ITA,103,,Lost in Como R16,NO
+455,Luca,Staeheli,26,SUI,103,,,NO
+456,Karl,Poling,27,USA,103,,,NO
+457,Corentin,Denolly,29,FRA,102,Tsaghkadzor 3 R32,Lost in Vienna R16,NO
+458,Cyril,Vandermeersch,27,FRA,102,,,NO
+459,Felipe,Meligeni Alves,28,BRA,101,,Lost in Qual. US Open R1,NO
+460,Blake,Ellis,27,AUS,101,Phan Thiet 3 R16,Lost in Bali 3 R16,NO
+461,Maximus,Jones,22,THA,101,Phan Thiet 3 R16,Qual. Manacor W,NO
+462,Mitsuki,Wei Kang Leong,22,MAS,101,,Qual. Zhangjiagang W,NO
+463,Matthew,William Donald,21,CZE,101,,Lost in Qual. Tulln R2,NO
+464,Viktor,Durasovic,29,NOR,101,,Lost in Qual. Manacor R1,NO
+465,Koki,Matsuda,25,JPN,100,Phan Thiet 3 R16,Qual. Zhangjiagang W,NO
+466,Quinn,Vandecasteele,24,USA,100,,,NO
+467,Marat,Sharipov,23,RUS,100,Shanghai R16,,NO
+468,Paulo,Andre Saraiva Dos Santos,26,BRA,100,,,NO
+469,Oleg,Prihodko,28,MKD,99,,Lost in Poznan R16,NO
+470,Alex,Hernandez,27,MEX,99,,Lost in Qual. Manacor R1,NO
+471,Santiago,Taverna,27,ARG,99,Seville R16,Qual. Seville W,NO
+472,Daniel,Dutra da Silva,38,BRA,99,,,NO
+473,Filip,Misolic,25,AUT,97,Tulln R16,Lost in US Open R128 ,NO
+474,Jack,Loge,21,BEL,97,Rabat 2 R32,Lost in Casablanca SF,NO
+475,Pedro,Vives Marcos,25,ESP,95,,Lost in Oviedo QF,NO
+476,Adrian,Boitan,27,ROU,95,Istanbul 3 R16,Lost in Qual. Manacor R2,NO
+477,Izan,Almazan Valiente,20,ESP,95,,Lost in Qual. Manacor R1,NO
+478,Thijs,Boogaard,18,NED,94,Hurghada 9 R32,Lost in Hurghada 8 QF,NO
+479,Radu,Albot,36,MDA,94,Istanbul 3 R16,Qual. Istanbul 3 W,NO
+480,Henry,Bernet,19,SUI,94,,Lausanne W,NO
+481,Patrick,Schoen,21,SUI,94,Sintra R32,Qual. Porto 1 W,NO
+482,Ryan,Nijboer,27,NED,94,Gijon R16,Lost in Oviedo R16,NO
+483,Colin,Sinclair,31,NMI,94,Wuning 8 R32,Lost in Wuning 7 SF,NO
+484,Sebastian,Gorzny,22,USA,93,,Lost in US Open R64 ,NO
+485,Luca,Potenza,26,ITA,93,,Qual. Manacor W,NO
+486,Sergio,Callejon Hernando,21,ESP,93,,Lost in Qual. Manacor R2,NO
+487,Duncan,Chan,21,CAN,92,,,NO
+488,Yassine,Dlimi,23,MAR,92,,Lost in Casablanca SF,NO
+489,Niels,McDonald,18,GER,92,,Lost in Porto 1 R32,NO
+490,Cesar,Bouchelaghem,22,FRA,92,Monastir 36 R32,Lost in Monastir 35 F,NO
+491,Filip,Jeff Planinsek,25,SLO,92,,Lost in Maribor SF,NO
+492,Beibit,Zhukayev,25,KAZ,91,,,NO
+493,Gianmarco,Ferrari,25,ITA,91,,Lost in Qual. Como R1,NO
+494,Federico,Arnaboldi,26,ITA,91,,Lost in Como R16,NO
+495,Miguel,Tobon,20,COL,91,Istanbul 3 R16,,NO
+496,Alexander,Ritschard,32,SUI,90,Seville R16,Oviedo W,NO
+497,Dragos,Nicolae Madaras,28,SWE,90,,Lost in Bucharest 3 QF,NO
+498,Paul,Jubb,26,GBR,90,Hurghada 9 R32,,NO
+499,Alex,Rybakov,29,USA,90,,,NO
+500,Anton,Shepp,23,NZL,90,Bali 4 R16,Lost in Qual. Manacor R1,NO

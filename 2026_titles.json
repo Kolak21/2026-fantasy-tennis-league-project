@@ -1,0 +1,125 @@
+
+{
+ 
+
+    "slams" :{
+
+        "ao": {
+            "winner": "Carlos Alcaraz",
+            "time": 1769935500000
+        },
+
+        "wimbledon": {
+            "winner": "Jannik Sinner",
+            "time": 1783869000000
+        }
+    },
+
+    "masters" : {
+
+        "iw": {
+            "winner": "Jannik Sinner",
+            "time": 1783869000000
+        },
+
+        "miami": {
+            "winner": "Jannik Sinner",
+            "time": 1783869000000
+        },
+
+        "monte-carlo": {
+            "winner": "Jannik Sinner",
+            "time": 1783869000000
+        },
+
+        "madrid": {
+            "winner": "Jannik Sinner",
+            "time": 1783869000000
+        },
+
+        "rome": {
+            "winner": "Jannik Sinner",
+            "time": 1783869000000
+        },
+
+        "montreal": {
+            "winner": "Ben Shelton",
+            "time": 1783869000000
+        },
+
+        "cincinnati": {
+            "winner": "Arthur Fils",
+            "time": 1787517300000
+        }
+    },
+
+    "500s" :
+    {
+       "dallas": {
+            "winner": "Ben Shelton",
+            "time": 1783869000000
+        },
+        "rotterdam": {
+            "winner": "Alex de Minaur",
+            "time": 1783869000000
+        },
+        "doha": {
+            "winner": "Carlos Alcaraz",
+            "time": 1783869000000
+        },
+        "dubai": {
+            "winner": "Daniil Medvedev",
+            "time": 1783869000000
+        },
+        "acapulco": {
+            "winner": "Flavio Cobolli",
+            "time": 1783869000000
+        },
+        "munich": {
+            "winner": "Ben Shelton",
+            "time": 1783869000000
+        },
+        "dc": {
+            "winner": "Taylor Fritz",
+            "time": 1783869000000
+        } 
+    },
+
+    "250s" : {
+        "occitanie": {
+            "winner": "Felix Auger-Aliassime",
+            "time": 1783869000000
+        },
+
+        "houston": {
+            "winner": "Tommy Paul",
+            "time": 1783869000000
+        },
+
+        "geneva": {
+            "winner": "Learner Tien",
+            "time": 1783869000000
+        },
+
+        "stuttgart": {
+            "winner": "Ben Shelton",
+            "time": 1783869000000
+        },
+
+        "mallorca": {
+            "winner": "Alejandro Davidovich Fokina",
+            "time": 1783869000000
+        },
+
+        "gstaad": {
+            "winner": "Stefanos Tsitsipas",
+            "time": 1783869000000
+        },
+
+        "bastad": {
+            "winner": "Andrey Rublev",
+            "time": 1783869000000
+        }
+    }
+
+}
